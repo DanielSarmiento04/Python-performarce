@@ -29,5 +29,5 @@ primes = np.array(list(filter(is_prime, numbers)))
 
 
 ## References
-(Wikipedia)[https://en.wikipedia.org/wiki/Prime_number]
-(optimize prime Function)[https://geekflare.com/prime-number-in-python/]
+- [Wikipedia](https://en.wikipedia.org/wiki/Prime_number)
+- [optimize prime Function](https://geekflare.com/prime-number-in-python/)
